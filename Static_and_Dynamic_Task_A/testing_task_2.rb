@@ -4,7 +4,7 @@
 # Correct the errors below that you spotted in task 1.
 
 require_relative('./card.rb')
-require_relative('./test.rb')
+require_relative('./cardgame_spec.rb')
 class CardGame
 
 
